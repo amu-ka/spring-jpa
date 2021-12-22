@@ -3,3 +3,8 @@
 target/
 .data
 .idea
+/.metadata/
+/bin/
+.classpath
+.project
+.settings/
